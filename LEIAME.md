@@ -1,5 +1,3 @@
-Link para o Pitch: https://youtu.be/CPcrjVVuoA0
-
 Relatório do Projeto: Desenvolvimento de um Web Crawler para Coleta de Preços e Produtos
 
 1. Introdução
@@ -50,3 +48,4 @@ O projeto atingiu seus objetivos ao desenvolver uma ferramenta funcional para a 
 7. Referências
 Documentação da biblioteca Selenium: https://selenium.dev
 Documentação da biblioteca Reportlab: https://www.reportlab.com/
+Link para o Pitch: https://youtu.be/CPcrjVVuoA0
